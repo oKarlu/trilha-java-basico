@@ -1,3 +1,14 @@
+/**
+ * <h1>Smart Tv</h1>
+ * A Smart Tv realiza operações de seus status
+ * <p>
+ * <b>Note:</b> Leia atentamente a documentação desta classes
+ * para desfrutar dos recursos oferecidos pelo autor
+ *
+ * @author  Carlos Marinho
+ * @version 1.0
+ * @since   16/10/2022
+ */
 public class SmartTv {
     boolean ligada = false;
     int canal = 1;
