@@ -17,9 +17,9 @@ public class TiposVariaveis {
         String nomeComleto = nome.concat(" ").concat(sobrenome);
 
         //Char para receber caractere
-        char caractere1 = 'a';
-        char caractere2 = 'b';
-        char caractere3 = 'c';
+        char masculino = 'M';
+        char feminino = 'F';
+        char sexo = masculino;
 
         //Lógico
         boolean maiorDeIdade = true;
